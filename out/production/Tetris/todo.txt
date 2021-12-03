@@ -1,1 +1,0 @@
--add saving the highscore
